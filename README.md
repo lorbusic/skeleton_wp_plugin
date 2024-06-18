@@ -1,4 +1,7 @@
-# Nome del tuo plugin
+
+
+
+## Questo genera la struttura skeleton semplice per un plugin WP
 
 Plugin WordPress che aggiunge funzionalità personalizzate al tuo sito.
 
